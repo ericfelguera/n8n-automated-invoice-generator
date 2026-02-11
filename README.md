@@ -22,6 +22,10 @@ This project showcases an automated billing pipeline designed for non-technical 
 The pipeline follows a linear, fail-safe path: Data Input -> Template Update -> PDF Conversion -> Storage -> Dispatch.
 ![Invoice Generation Pipeline](img/invoices_workflow.png)
 
+### 🖥️ User Interface (Frontend)
+The system provides a simplified data entry form, ensuring that non-technical users can generate complex documents without touching a single spreadsheet cell.
+![Invoice Form UI](img/invoice_forms.png)
+
 ## 🚀 Practical Utility
 This tool reduced the manual invoicing time for a small service provider from **15 minutes per invoice to 10 seconds**, eliminating manual errors in PDF export and email attachments.
 
