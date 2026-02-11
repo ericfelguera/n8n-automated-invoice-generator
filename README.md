@@ -24,7 +24,7 @@ The pipeline follows a linear, fail-safe path: Data Input -> Template Update -> 
 
 ### 🖥️ User Interface (Frontend)
 The system provides a simplified data entry form, ensuring that non-technical users can generate complex documents without touching a single spreadsheet cell.
-![Invoice Form UI](img/invoice_forms.png)
+<img src="img/invoice_forms.png" width="400" alt="Descripción de la imagen">
 
 ## 🚀 Practical Utility
 This tool reduced the manual invoicing time for a small service provider from **15 minutes per invoice to 10 seconds**, eliminating manual errors in PDF export and email attachments.
